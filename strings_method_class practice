@@ -1,0 +1,57 @@
+# print('hello WoRld'.capitalize()) # Hello world
+# print('hello WoRld'.title()) # Hello World
+# print('Hello World'.istitle()) # True
+# print('hello WoRld'.upper()) # HELLO WORLD
+# print('hello WoRld'.lower()) # hello world
+# print('hello WoRld'.isupper()) # false
+# print('hello WoRld'.islower()) # false
+# a= 'i like rose'
+# print(a.replace('rose','lilly')) # i like lilly
+# print('niharika'.count('a')) # 2
+# print('niharika'.count('k')) # 1
+# print('niharika'.count('p')) # 0 (if the letter is not there in string it gives the ans 0)
+# print(len('niharika')) # 8
+# x='niharika'
+# print(len(x)) # 8
+z='niharika'
+# print(z) # niharika
+# print(z[0]) # n
+# print(z[1]) # i
+# print(z[2]) # h
+# print(z[3]) # a
+# print(z[4]) # r
+# print(z[5]) # i
+# print(z[6]) # k
+# print(z[7]) # a
+# print(z[8]) # IndexError: string index out of range
+# print(z[-1]) # a
+# print(z[-2]) # k
+# print(z[-3]) # i
+# print(z[-4]) # r
+# print(z[-5]) # a
+# print(z[-6]) # h
+# print(z[-7]) # i
+# print(z[-8]) # n
+# print(z[-9]) # IndexError: sting index out of range
+
+# a='hyderabad'
+# print(a[2]+a[-2]+a[-1]) # dad
+# print(a[-3]+a[-2]+a[-1]) # bad
+# print('hyderabad'.find('a')) # 5
+# print('hyderabad'.find('b')) # 6
+# print('hyderabad'.find('y')) # 1
+# print('hyderabad'.find('p')) # -1
+# print('hyderabad'.index('a')) # 5
+# print('hyderabad'.index('d')) # 2
+# print('hyderabad'.index('h')) # 0
+# print('hyderabad'.index('q')) # ValueError: Substring not found
+# a='    python....'
+# print(a.strip()) # python.....
+# b='    python....'
+# print(b.strip('.'))  #      python
+# c='    python   '
+# print(c.strip())  # python
+# x='....python.....'
+# print(x.lstrip('..')) # python.....
+# print(x.rstrip('..')) # ....python
+
