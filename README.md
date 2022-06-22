@@ -1,2 +1,2 @@
 # Day4
-String_methods part1
+String_methods_class practice
